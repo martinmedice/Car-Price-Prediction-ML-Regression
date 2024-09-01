@@ -4,6 +4,8 @@
 
 This project focuses on predicting the price of used cars using a machine learning model. The model is trained on the [dataset](www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) of used cars and aims to provide accurate price estimates based on various features such as the year of the car, mileage, condition, and more. The prediction application is built using Streamlit, allowing users to input car details and receive price predictions.
 
+![ ](images/car_prediction_screenshot.png)
+
 ## Objective
 
 The primary objective of this project is to develop a robust regression model to estimate car prices based on the following features:
